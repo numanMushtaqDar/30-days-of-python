@@ -16,4 +16,3 @@ print(type(1 + 3j))
 print(type('NUMAN'))
 print(type({'name', 'Numan'}))
 print(type({9.8, 3.14, 2.7}))
-
